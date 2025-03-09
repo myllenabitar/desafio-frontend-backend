@@ -8,11 +8,16 @@ Este repositório contém um desafio Fullstack envolvendo desenvolvimento Fronte
 - React.js
 - Vite
 - JavaScript
+- Styled Components
+- Axios
 
 ### Backend
 - Node.js
 - Express
 - JavaScript
+- Prisma ORM
+- SQLite
+- Cors
 
 ## 📌 Funcionalidades
 
@@ -54,4 +59,3 @@ Acesse a aplicação no navegador através de `http://localhost:5173`.
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir! 🚀
-
